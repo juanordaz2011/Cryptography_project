@@ -1,0 +1,31 @@
+﻿/*
+   New Perspectives on HTML
+
+   ICI Layout Styles
+   Author: Juan
+   Date:   Feb 20, 2016
+
+   Filename:         c_layout.css
+   Supporting Files: none
+
+*/
+
+/* Layout styles */
+
+
+body {
+   margin: 0px auto;
+   padding: 0px;
+   width: 98%;
+   max-width: 800px;
+   min-width: 250px;
+}
+
+header, footer {
+   margin: 0px auto;
+}
+
+article img {
+   float: right;
+   margin: 15px 0px 15px 15px;
+}

@@ -1,0 +1,83 @@
+/*
+   New Perspectives on HTML
+
+
+    ICI Text and Color Styles
+    Author: Juan
+    Date: Feb 20, 2016
+
+   Filename:         c_styles.css
+   Supporting Files: none
+
+*/
+/********************
+cypttxt.html Styles
+********************/
+body{
+    font-family: "Century Gothic", Sans-serif;
+    background: black;
+    color: white;
+}
+
+/* Styles for the main title */
+header h1{
+    color: yellow;
+    font-family: "Courier New";
+    font-size: 28px;
+    letter-spacing: 20px;
+    text-align: center;
+}
+/* Styles for the  subtitle */
+article h2{
+    font-size: 24px;
+    font-weight: normal;
+    letter-spacing: 5px;
+}
+
+/* styles for all paragraphs */
+article p{
+    text-align: justify;
+}
+
+/* removes bold from the strong tags */
+.keyword{
+    color: rgb(255,255,0);
+    font-weight: normal;
+}
+
+/* aligns the footer container */
+footer p{
+    text-align: center;
+}
+/*removes borders for the images */
+footer p img[usemap]{
+    border-width: 0px;
+}
+
+/*
+*******************
+Algo.html Styles
+*******************
+*/
+
+/*
+*******************
+enigma.html Styles
+*******************
+*/
+/*
+*******************
+history.html Styles
+*******************
+*/
+/*
+*******************
+public.html Styles
+*******************
+*/
+
+/*
+*******************
+single.html Styles
+*******************
+*/
